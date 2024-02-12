@@ -19,3 +19,5 @@ streamlit run app.py
 ```
 
 After this we will be redirected to the default browser with the running application.
+
+The required python libraries are included in `requirements.txt`.
